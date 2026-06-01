@@ -9,19 +9,21 @@ Este proyecto enciende y apaga un LED cada 1 segundo usando una placa Arduino.
 - Cables jumper
 - Protoboard
 
-## Conexión
-- Conecta el ánodo del LED al pin 13.
-- Conecta el cátodo a GND usando la resistencia.
+## Conexiï¿½n
+- Conecta el ï¿½nodo del LED al pin 13.
+- Conecta el cï¿½todo a GND usando la resistencia.
 
 ## Archivos del proyecto
 - `MiProyecto.ino`
 - `README.md`
 
-## Cómo usarlo
+## Cï¿½mo usarlo
 1. Abre el archivo `.ino` en Arduino IDE.
 2. Conecta tu placa Arduino al computador.
-3. Sube el código a la placa.
-4. Observa cómo el LED parpadea.
+3. Sube el cï¿½digo a la placa.
+4. Observa cï¿½mo el LED parpadea.
 
-## Código
-El código principal está en el archivo `.ino`.
+## Cï¿½digo
+El cï¿½digo principal estï¿½ en el archivo `.ino`.
+
+## Cambio  localmente
